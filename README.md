@@ -1,4 +1,6 @@
 # Mineriadatos
+
+
 #Fase 1
 
 [Mapa Mental 1]https://github.com/AnakarenSegovia/Mineriadatos/blob/main/MapaMental_1_1981779.pdf
@@ -17,6 +19,8 @@ Presentación técnicas de mineria de datos https://github.com/AnakarenSegovia/M
 
 
 Primer avance PIA https://github.com/EdsonGzz/mineriaDdatos/blob/main/Avance1_PIA_Equipo5.ipynb
+
+
 
 
 #Fase 2
