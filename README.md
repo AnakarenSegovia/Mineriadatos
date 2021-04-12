@@ -30,3 +30,5 @@ Presentación del equipo https://github.com/AnakarenSegovia/Mineriadatos/blob/ma
 Mini examenes https://github.com/AnakarenSegovia/Mineriadatos/blob/main/Calificaci%C3%B3n_M%C3%A1quinas-de-soporte-vectorial_05.pdf
 
 Mapa mental 2 https://github.com/AnakarenSegovia/Mineriadatos/blob/main/Mapa%20mental_2_1981779.pdf
+
+Segundo avance del PIA (PRIMERA PARTE) https://github.com/JenniferHerrera21/MineriaDeDatos003/blob/main/Visualizacion_Equipo5.pdf
