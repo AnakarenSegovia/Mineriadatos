@@ -31,6 +31,8 @@ Mini examenes https://github.com/AnakarenSegovia/Mineriadatos/blob/main/Califica
 
 Mapa mental 2 https://github.com/AnakarenSegovia/Mineriadatos/blob/main/Mapa%20mental_2_1981779.pdf
 
-Segundo avance del PIA (PRIMERA PARTE, PRIMERA BASE DE DATOS) https://github.com/JenniferHerrera21/MineriaDeDatos003/blob/main/Visualizacion_Equipo5.pdf
+Ejercicio de visualización (PRIMERA PARTE, PRIMERA BASE DE DATOS) https://github.com/JenniferHerrera21/MineriaDeDatos003/blob/main/Visualizacion_Equipo5.pdf
 
-Segundo avance del PIA (SEGUNDA PARTE, LA SEGUNDA BASE DE DATOS) https://github.com/EdsonGzz/mineriaDdatos/blob/main/Visualizacion_Equipo5%20(1).pdf
+Ejercicio de visualización (SEGUNDA PARTE, LA SEGUNDA BASE DE DATOS) https://github.com/EdsonGzz/mineriaDdatos/blob/main/Visualizacion_Equipo5%20(1).pdf
+
+AVANCE DEL PIA 2 https://github.com/JenniferHerrera21/MineriaDeDatos003/blob/main/%20AvancePIA_II_Grupo003_Equipo5.ipynb
