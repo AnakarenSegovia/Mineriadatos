@@ -39,5 +39,5 @@ SEGUNDO AVANCE DEL PIA  https://github.com/JenniferHerrera21/MineriaDeDatos003/b
 
 SEGUNDO AVANCE DEL PIA(CON LAS CORRECCIONES) https://github.com/JenniferHerrera21/MineriaDeDatos003/blob/main/%20AvancePIA_II_Grupo003_Equipo5Corregido.ipynb
 
-Poster mineria https://github.com/JenniferHerrera21/MineriaDeDatos003/blob/main/Poster_Mineria.pdf
+Poster https://github.com/JenniferHerrera21/MineriaDeDatos003/blob/main/Poster_Mineria.pdf
 
