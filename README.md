@@ -38,3 +38,6 @@ Ejercicio de visualización (SEGUNDA PARTE, LA SEGUNDA BASE DE DATOS) https://gi
 SEGUNDO AVANCE DEL PIA  https://github.com/JenniferHerrera21/MineriaDeDatos003/blob/main/%20AvancePIA_II_Grupo003_Equipo5.ipynb
 
 SEGUNDO AVANCE DEL PIA(CON LAS CORRECCIONES) https://github.com/JenniferHerrera21/MineriaDeDatos003/blob/main/%20AvancePIA_II_Grupo003_Equipo5Corregido.ipynb
+
+Poster mineriahttps://github.com/JenniferHerrera21/MineriaDeDatos003/blob/main/Poster_Mineria.pdf
+
